@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Roboto', sans-serif;
+}
+body {
+	background-color: #ecf0f1;
+}
+#js-newGameElement {
+	margin: 30px auto;
+}
+#js-newGameButton {
+	background-color: #27ae60;
+	color: white;
+	width: 300px;
+}
+#js-playerPickElement {
+	margin: 20px auto;
+}
