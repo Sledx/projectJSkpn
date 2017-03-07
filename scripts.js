@@ -51,6 +51,8 @@ function setGameElements() {
   }
 }
 
+setGameElements();
+
 function newGame() {
 	player.name = prompt('Graczu, wpisz swoje imię', 'imię gracza');
 	if (player.name) {
